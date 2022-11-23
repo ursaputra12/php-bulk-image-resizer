@@ -1,0 +1,1 @@
+# php-bulk-image-resizer
